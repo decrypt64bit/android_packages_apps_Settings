@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2025 AxionOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="auto_hbm_enabled_title">High brightness mode</string>
+    <string name="auto_hbm_enabled_summary">Automatically boost display brightness in bright light</string>
+    <string name="auto_hbm_lux_on_title">Turn on above</string>
+    <string name="auto_hbm_lux_on_summary">Ambient light level (lux) that enables high brightness mode</string>
+    <string name="auto_hbm_lux_off_title">Turn off below</string>
+    <string name="auto_hbm_lux_off_summary">Ambient light level (lux) that disables high brightness mode</string>
+
+    <string name="enable_fingerprint_ripple_effect_title">Fingerprint ripple effect</string>
+    <string name="enable_fingerprint_ripple_effect_summary">Show a ripple animation when the fingerprint sensor is touched</string>
+    <string name="firmware_name_version">Firmware version</string>
+    <string name="floating_rotation_button_title">Rotation suggestions button</string>
+    <string name="floating_rotation_button_summary">Show a floating button to rotate the screen when auto-rotate is off</string>
+    <string name="lock_screen_auto_pin_confirm_summary_custom">Press the check mark to confirm your PIN</string>
+    <string name="lockscreen_quick_setting_title">Quick settings on lock screen</string>
+    <string name="lockscreen_quick_setting_summary">Allow opening Quick Settings from the lock screen</string>
+    <string name="notification_heads_up_compact_title">Compact heads-up notifications</string>
+    <string name="notification_heads_up_compact_summary">Show heads-up notifications in a compact style</string>
+    <string name="nt_mistouch_prevention">Pocket mistouch prevention</string>
+    <string name="nt_mistouch_prevention_summary">Prevent accidental touches while the proximity sensor is covered</string>
+    <string name="power_off_verify_title">Require authentication to power off</string>
+    <string name="power_off_verify_summary">Ask for your screen lock before shutting down</string>
+    <string name="screenshot_shutter_sound_title">Screenshot sound</string>
+    <string name="screenshot_shutter_sound_summary">Play a sound when a screenshot is taken</string>
+    <string name="show_ime_space_title">Show space above keyboard</string>
+    <string name="show_ime_space_summary">Add padding between the keyboard and the navigation bar</string>
+</resources>

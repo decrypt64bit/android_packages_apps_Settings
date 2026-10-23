@@ -34,14 +34,14 @@
             android:title="@string/nt_mistouch_prevention"
             android:summary="@string/nt_mistouch_prevention_summary"
             android:defaultValue="false"
-            settings:position="none" />
+            />
 
         <com.android.settings.preferences.SecureSettingSwitchPreference
             android:key="enable_lockscreen_quick_settings"
             android:title="@string/lockscreen_quick_setting_title"
             android:summary="@string/lockscreen_quick_setting_summary"
             android:defaultValue="true"
-            settings:position="none" />
+            />
 
         <com.android.settings.preferences.SecureSettingSwitchPreference
             android:key="ripple_unlock_enable"
@@ -54,7 +54,7 @@
             android:title="@string/show_lockscreen_carrier_text_title"
             android:summary="@string/show_lockscreen_carrier_text_summary"
             android:defaultValue="true"
-            settings:position="none" />
+            />
 
         <Preference
             android:key="power_off_verify"
